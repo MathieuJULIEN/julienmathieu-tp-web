@@ -101,7 +101,7 @@ Vous avez décidé de prendre vos compétences et donc jouer avec la Team, vous 
 
 Scene 07 (Buy Sheriff) :
 
-Zezezez
+Vous décider d'acheter un Sheriff pour commencer la game et décider de vite prendre un duel pour mettre la tete, vous réussissez votre kill mais un deuxieme adversaire arrive, vous avez deux options, que faire soit 
 
 
 \-- EZEZEZ
@@ -114,7 +114,7 @@ Zezezez
 
 Scene 08 (Suivre la même stragégie) :
 
-Vous décidez de suivre la meme stratégie, cependant l'équipe adversaire commence a s'habituer a votre plan et réussi a vous battre, comme vous n'avais pas écouter votre bottom il n'est plus focus et ne vous aide plus, malheureusement la game s'anonce difficile. Soit vous décider d'essayer de remotiver le bottom pour essayer de la gagner, soit vous revoyez une strat avec vos 3 autres mates.
+Vous décidez de suivre la meme stratégie, cependant l'équipe adversaire commence a s'habituer a votre plan et réussi a vous battre, comme vous n'avais pas écouter votre bottom il n'est plus focus et ne vous aide plus, malheureusement la game s'anonce difficile.Sauf qu'en voyant l'état de la team le bottom décide soudainement de reproposer une stratégie. Soit vous décider d'essayer d'écouter le bottom pour essayer de refaire du 5v5, soit vous revoyez une strat avec vos 3 autres mates.
 
 
 \-- Écouter le bottom (scene 09)
@@ -127,7 +127,7 @@ Vous décidez de suivre la meme stratégie, cependant l'équipe adversaire comme
 
 Scene 09 (Écouter le bottom) :
 
-Vous décider d'écouter le bottom et vous réussissais à prendre le round grâce a sa strat farfelu mais fonctionnel. Toutes votre team est contente et motivé, maintenant il vous reste le choix, continuer ainsi ou bien tester de trigger la team adversaire en leur écrivant "nice try".
+Vous décider d'écouter le bottom et vous réussissais à prendre le round grâce a la strat collective proposé. Toutes votre team est contente et motivé, maintenant il vous reste le choix, continuer ainsi ou bien tester de trigger la team adversaire en leur écrivant "nice try".
 
 
 \-- Continuer ainsi (21)
@@ -245,7 +245,7 @@ La game est malheureusement perdu. Vous avez peut-etre perdu cette partie mais e
 
 Scene 19 (Prendre le spike et jouer avec son mate) :
 
-Vous décider d'écouter le bottom et vous réussissais à prendre le round grâce a sa strat farfelu mais fonctionnel. Toutes votre team est contente et motivé, maintenant il vous reste le choix, continuer ainsi ou bien tester de trigger la team adversaire en leur écrivant "nice try".
+Vous décider d'écouter votre duo et vous réussissais à prendre le round grâce a sa strat farfelu mais fonctionnel. Toutes votre team est contente et motivé, maintenant il vous reste le choix, continuer ainsi ou bien tester de trigger la team adversaire en leur écrivant "nice try".
 
 
 \-- Continuer ainsi (scene 20)
