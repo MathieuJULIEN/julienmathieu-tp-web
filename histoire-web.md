@@ -101,12 +101,12 @@ Vous avez décidé de prendre vos compétences et donc jouer avec la Team, vous 
 
 Scene 07 (Buy Sheriff) :
 
-Vous décider d'acheter un Sheriff pour commencer la game et décider de vite prendre un duel pour mettre la tete, vous réussissez votre kill mais un deuxieme adversaire arrive, vous avez deux options, que faire soit 
+Vous décider d'acheter un Sheriff pour commencer la game et décider de vite prendre un duel pour mettre la tete, vous réussissez votre kill mais un deuxieme adversaire arrive, vous avez deux options, soit vous prenez le peak pour en avoir un deuxieme, soit vous rejoignez votre team.
 
 
-\-- EZEZEZ
+\-- Peak (scene 22)
 
-\--ZEZEZEZE
+\--Rejoindre les mates (scene 23)
 
 
 
@@ -273,3 +273,75 @@ Vous continuer dans cette direction et faites en boucle des actions magnifiques,
 
 
 \-- Continuer ainsi (scene 16)
+
+
+
+
+
+Scene 22 (Peak une 2eme fois) :
+
+Vous décidez de prendre un Peak sur le deuxieme mais louper votre balle, malheureusement l'adversaire profite de votre miss et vous kill. Maintenant vos mates ce méfi de vous et vont donc ne pas vous faire confiance. Que faites vous, essayer de call avec la team pour le prochain round et mettre une strat en place, ou ne rien dire vous refocus et être prêt a cliquer pour le prochain round ?
+
+
+\-- Call avec la Team (scene 24)
+
+\-- Ce préparer mentalement. (scene 25)
+
+
+
+
+
+Scene 23 (rejoindre les mates) :
+
+VOus avez fait le choix de rejoindre votre team et de jouer avec eux, un adversaire ce retrouve seul sur le site que vous êtes en train de push et vous lui mettez la tête et le round fini bien, Bien joué le premier round est gagné. Vos mates sont content car vous avez fait le first blood et n'avez pas cherché à greed. Que faites vous maintenant ? Vous décidez de Call avec la Team pour gagner le prochain round ou vous décidez de ne pas mettre de stratégie en place et refaire ce qui viens de passer ?
+
+
+\-- Call avec la Team (scene 24)
+
+\-- Essayer de refaire le même round (scene 26)
+
+
+
+
+
+Scene 24 :
+
+Vous décidez de mettre en place une strat avec votre Team, ce qui est bien car votre Team vois que vous êtes investi dans la team et ne veux pas juste solo frag. Maintenant deux strats sont proposé, soit tester de faire la meme chose que le round d'avant. Soit jouer default .
+
+
+\-- Refaire le meme round (scene 26)
+
+\-- Jouer default (scene 27)
+
+
+
+
+
+Scene 25 :
+
+Vous décidez de vous préparer mentalement pour cliquer comme jamais , cependant cette fois les adversaires sont plus que parait a votre push donc vous prenez votre peak et vous vous faites détruire. Votre team après avoir vu ca décide de vous critiquer et ne joues quasiment plus. Ce qui vous amène malheureusement sur une game perdu .
+
+
+\-- Aller scène 17 
+
+
+
+
+
+Scene 26 :
+
+Vous êtes donc parti pour refaire le même round qui viens d'etre jouer sauf que les adversaires ont compris votre play style et s'attendent a vous retrouvez la ou vous étiez donc ils sont préparer et comme ils si attendaient vous faites la meme chose et ils vous kills tout comme vos mates, ce qui donne une surconfiance a vos adversaire et commence a démoraliser vos mates. Ce qui n'est vraiment pas bon car l'un de vos mates décide de quitter et vous vous retrouvez finalement en 4v5 ce qui est impossible et donc perdez la game.
+
+
+\-- Aller scène 17
+
+
+
+
+
+Scene 27 :
+
+Vous avez donc décidé de jouer default ce qui surprend vos adversaires, ils voient votre premier mate sur un site donc rotate, tous, vous prenez un kill sur l'un des adversaires qui rotate et vous avez un free site, donc vous plantez votre mate qui était site opposé reviens et vous la jouer en 4v5 , tout ce passe bien et vous avez gérer ce round. Les adversaires commencent déja a tilt et 2 d'entre eux quitte la game, vous jouez encore 3 round en 5v3 que vous gagnez au la main et les 3 adversaires décident donc de FF et vous gagnez. GG a vous 
+
+
+\-- Aller scène 16
