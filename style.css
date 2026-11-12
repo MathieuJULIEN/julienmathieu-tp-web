@@ -73,6 +73,9 @@ body{
 
 .content-scene {
     padding: 12rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .class-buton-scene{
